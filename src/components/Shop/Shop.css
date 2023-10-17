@@ -1,0 +1,25 @@
+.morning{
+    background-color: lightblue;
+    text-align: center;
+    padding: 20px;
+
+}
+.lunch{
+    background-color: lightblue;
+    text-align: center;
+    padding: 20px;
+}
+.dinner{
+    background-color: lightblue;
+    text-align: center;
+    padding: 20px;
+
+}
+.box{
+    display: grid;
+  grid-template-columns: auto auto auto auto;
+  gap: 10px;
+  background-color: #2196F3;
+  
+  }
+  
